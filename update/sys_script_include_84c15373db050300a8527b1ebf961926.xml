@@ -58,7 +58,7 @@ isEmailValid: function(emailStr){
         <sys_class_name>sys_script_include</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-09-14 02:12:42</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>84c15373db050300a8527b1ebf961926</sys_id>
         <sys_mod_count>4</sys_mod_count>
         <sys_name>NeedItUtils</sys_name>
